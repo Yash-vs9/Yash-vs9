@@ -1,7 +1,7 @@
 # Hi there!  I'm Yash
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00BFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer+%F0%9F%9A%80;React.js+%7C+Next.js+Developer;Spring+Boot+Expert;SQL+Database+Specialist;Building+Amazing+Applications!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00BFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer+%F0%9F%9A%80;React.js+%7C+Next.js+Developer;Spring+Boot+Expert;SQL;Building+Amazing+Applications!" alt="Typing SVG" />
 </div>
 
 <div align="center">
