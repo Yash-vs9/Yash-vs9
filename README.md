@@ -1,6 +1,8 @@
 # Yash Vardhan Shukla
 **Full Stack & Cloud-Native Engineer**
 
+![Views](https://komarev.com/ghpvc/?username=yash-vs9&color=blue&style=flat-square&label=PROFILE+VIEWS)
+
 A passionate developer focused on building scalable web applications and robust backend architectures. I specialize in the **Spring Boot** and **React/Next.js** ecosystems, with a strong interest in cloud-native development and system design.
 
 ---
