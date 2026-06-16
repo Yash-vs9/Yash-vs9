@@ -1,5 +1,5 @@
 # Yash Vardhan Shukla
-**Full Stack & Cloud-Native Engineer**
+**Full Stack & AI Engineer**
 
 ![Views](https://komarev.com/ghpvc/?username=yash-vs9&color=blue&style=flat-square&label=PROFILE+VIEWS)
 
@@ -12,7 +12,7 @@ A passionate developer focused on building scalable web applications and robust 
 | Category | Technologies |
 | :--- | :--- |
 | **Frontend** | React.js, Next.js, TypeScript, Tailwind CSS, HTML5/CSS3 |
-| **Backend** | Java, Spring Boot, Spring Cloud, Node.js |
+| **Backend** | Java, Spring Boot, Spring Cloud, FastAPI |
 | **Databases** | MySQL, PostgreSQL, MongoDB, Redis |
 | **Cloud & DevOps** | Docker, Git, AWS (EC2, S3), CI/CD, Postman |
 
